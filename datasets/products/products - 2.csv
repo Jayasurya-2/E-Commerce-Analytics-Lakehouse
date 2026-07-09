@@ -1,0 +1,151 @@
+product_id,product_name,category,brand,price,cost_price,discount_pct,rating,num_reviews,stock_quantity,reorder_point,weight_kg,sku,launch_date,is_active,is_featured,warranty_period,supplier_id,tags
+1501,Scholastic Rich Dad Poor Dad,Books,Scholastic,4578.97,2659.6,20.5,3.5,9721,5683.0,342,13.91,SKU-ED0TZDWH,2025-01-26,Yes,No,2 Years,SUP-4084,clearance|organic|bestseller|sustainable
+1502,Whiskas Bird Cage Stainless,Pet Supplies,Whiskas,2250.67,1123.13,15.6,2.1,9069,9362.0,207,9.51,SKU-X4M8T1QO,2025-03-02,No,No,6 months,SUP-7971,sustainable|bestseller|organic|limited
+1503,Decathlon Yoga Wheel,Sports & Fitness,Decathlon,6338.19,3452.54,35.6,3.5,4351,5854.0,314,16.43,SKU-N7CSHQBE,2025-02-23,Yes,Yes,2 years,SUP-1788,bestseller
+1504,Garnier Beard Oil 50ml,Beauty & Personal Care,Garnier,2305.81,992.56,4.5,2.1,5631,3432.0,316,19.47,SKU-7XBAR3CP,2025-02-11,YES,No,1 Year,SUP-9687,organic
+1505,Swarovski Bangle Set Gold,Jewellery & Watches,Swarovski,6206.09,3619.72,30.8,2.1,6169,9111.0,277,17.99,SKU-LSH2BHJO,2025-02-21,Yes,No,2 years,SUP-4044,eco|premium
+1506,Shell Car Phone Mount Magnetic,Automotive,Shell,3722.22,1534.06,19.4,4.6,3153,7820.0,115,16.42,SKU-VODFGGFH,2025-01-06,yes,Yes,No Warranty,SUP-7350,organic|popular|clearance|top-rated
+1507,Drools Dog Leash Retractable,Pet Supplies,Drools,2446.65,1466.61,15.5,2.6,2547,7279.0,247,13.66,SKU-E3GCKVBH,2025-01-23,YES,No,3 years,SUP-9996,sale
+1508,Castrol Jump Starter Pack,Automotive,Castrol,6516.44,3754.77,15.9,3.7,3510,1400.0,428,1.09,SKU-GBN41I4I,2025-02-06,YES,No,6 months,SUP-5136,premium|new|flash|trending
+1509,Dettol Blood Pressure Monitor,Health & Wellness,Dettol,2411.31$,1669.09,20.0,2.8,8350,7161.0,71,4.24,SKU-YIK1CP8J,2025-03-30,YES,No,6 months,SUP-7219,top-rated|popular
+1510,ITC Almond Butter 250g,Grocery & Gourmet,ITC,7223.7,5024.08,22.9,1.5,8145,3055.0,219,16.16,SKU-T7J5OXVK,2025-01-02,yes,No,Lifetime,SUP-3285,top-rated|limited
+1511,Levi's Ethnic Kurta,Clothing,Levi's,2554.75,1428.44,13.8,2.0,7651,7308.0,286,19.53,SKU-AMK46Y2J,2025-01-11,NO,No,3 years,SUP-8446,bestseller|new
+1512,MAC Body Scrub 200g,Beauty & Personal Care,MAC,5616.33,3271.3,10.2,3.7,6412,5935.0,250,12.04,SKU-ETALY0G2,2025-02-11,Yes,No,Lifetime,SUP-8038,new|sustainable|premium|eco
+1513,Aashirvaad Moringa Powder 200g,Grocery & Gourmet,Aashirvaad,2899.6,1679.88,38.7,1.1,1015,4500.0,329,22.7,SKU-QTWW11HA,2025-01-17,Yes,No,1 Year,SUP-2141,popular|top-rated|premium
+1514,Whiskas Automatic Pet Feeder,Pet Supplies,Whiskas,152.03,103.62,17.0,1.9,2696,8339.0,440,21.82,SKU-K8WZUGD5,2025-03-19,NO,No,3 years,SUP-8970,clearance|eco|popular|premium
+1515,OUP Ikigai,Books,OUP,2218.16,927.8,30.0,3.7,3743,8023.0,447,24.82,SKU-565ZOUZM,2025-01-24,Yes,No,2 Years,SUP-2379,sale|limited|new|organic
+1516,Nerf Kinetic Sand 1kg,Toys & Games,Nerf,8202.41,4562.13,32.4,2.5,7701,7252.0,50,2.95,SKU-37R66RGC,2025-01-21,Yes,No,2 Years,SUP-9504,popular|premium|organic
+1517,Cello Induction Cooktop 2000W,Home & Kitchen,Cello,6952.69,4899.41,16.3,2.7,7002,1226.0,274,21.3,SKU-M0UTWUOF,2025-01-16,Yes,No,1 year,SUP-2587,trending|new|limited|top-rated
+1518,Penguin The Psychology of Money,Books,Penguin,3158.35,1560.18,31.6,3.8,185,7927.0,318,2.88,SKU-I1FPZP2E,2025-02-16,YES,Yes,2 years,SUP-8541,new|flash
+1519,Lego Musical Keyboard Kids,Toys & Games,Lego,4727.02,2440.01,28.5,4.4,7546,1804.0,118,8.61,SKU-71GM8T0E,2025-03-01,Yes,No,2 years,SUP-6790,trending|flash
+1520,Casio Drum Pad Practice,Music & Instruments,Casio,3938.67,2206.96,22.7,3.2,6846,3377.0,414,21.23,SKU-XF5ZW1VM,2025-02-08,Yes,No,1 year,SUP-2391,flash|trending|eco|top-rated
+1521,Patanjali Oat Bran 500g,Grocery & Gourmet,Patanjali,5370.2,2593.74,24.3,1.2,2124,7650.0,189,6.07,SKU-L0FXS7I7,2025-02-06,Yes,No,1 Year,SUP-1885,bestseller
+1522,Pedigree Dog Raincoat,Pet Supplies,Pedigree,2834.02,1260.02,8.6,2.1,9486,6506.0,277,24.15,SKU-5C3541NL,2025-03-06,NO,Yes,1 year,SUP-6327,limited|popular|clearance
+1523,Staples A4 Copy Paper 500 Sheets,Office Supplies,Staples,800.43,345.83,16.1,4.2,3748,305.0,175,24.35,SKU-53KEPCMV,2025-02-23,YES,No,No Warranty,SUP-9299,sale|organic|popular|eco
+1524,Gibson Ukulele Soprano,Music & Instruments,Gibson,5550.96,3185.29,16.6,2.6,829,7958.0,106,22.95,SKU-3VTYA5KO,2025-02-25,yes,No,2 Years,SUP-2480,top-rated|eco|premium
+1525,Fastrack Diamond Stud Earrings,Jewellery & Watches,Fastrack,98.48,65.89,38.3,2.0,7431,7754.0,123,18.12,SKU-XFUPUBH6,2025-02-25,Yes,No,2 years,SUP-8649,eco|bestseller|popular
+1526,Fiskars Garden Hose 15m,Garden & Outdoors,Fiskars,5077.6,2587.39,7.4,3.7,9174,5864.0,100,13.17,SKU-F7BO9QFI,2025-03-10,Yes,No,3 years,SUP-9748,sale|organic|clearance|premium
+1527,Tanishq Bangle Set Gold,Jewellery & Watches,Tanishq,4254.79,3040.65,33.2,3.9,912,7785.0,307,20.4,SKU-SIUH4PH2,2025-03-31,no,No,2 years,SUP-5288,trending|new
+1528,Borosil Chopper Manual,Home & Kitchen,Borosil,8341.73,3421.59,27.1,4.4,6180,8567.0,229,16.78,SKU-4JXYS5TI,2025-03-06,Yes,Yes,2 Years,SUP-6868,organic
+1529,Greenworks Lawn Mower Manual,Garden & Outdoors,Greenworks,8781.6,5443.11,34.3,1.6,3373,6854.0,149,18.82,SKU-ILURDW7P,2025-01-20,Yes,No,No Warranty,SUP-6703,premium|flash|popular|trending
+1530,Nike Formal Trousers,Clothing,Nike,3119.33,1496.32,1.2,3.1,5443,4951.0,56,8.59,SKU-ATHNFOZT,2025-03-30,Yes,No,2 Years,SUP-3949,organic|sale|sustainable|popular
+1531,Prestige Induction Cooktop 2000W,Home & Kitchen,Prestige,6014.4,3251.14,22.9,2.2,6059,8105.0,93,2.47,SKU-C5A76IFC,2025-01-10,No,No,1 year,SUP-1944,new|bestseller|organic|clearance
+1532,Casio Analog Watch Classic,Jewellery & Watches,Casio,740.06,444.0,25.7,1.8,9428,2318.0,488,10.61,SKU-J7XPXC40,2025-01-29,Yes,No,Lifetime,SUP-6108,new|clearance
+1533,Rupa Mindset,Books,Rupa,1759.1,945.2,18.1,4.8,6849,9567.0,88,11.62,SKU-LMETCBJW,2025-03-28,yes,No,6 months,SUP-9015,top-rated|flash|sustainable|sale
+1534,Patanjali Dried Cranberries 150g,Grocery & Gourmet,Patanjali,4377.79,2586.55,29.1,3.4,8350,9954.0,192,9.0,SKU-HXSVJ1EA,2025-01-20,YES,No,Lifetime,SUP-9888,clearance|bestseller
+1535,Heads Up For Tails Aquarium Filter,Pet Supplies,Heads Up For Tails,7266.66,3636.18,0.8,4.9,3894,351.0,207,13.11,SKU-9VT5DK1C,2025-02-02,Yes,No,6 months,SUP-9766,premium|new|flash
+1536,Borosil Sandwich Maker,Home & Kitchen,Borosil,6087.47,4175.25,38.6,2.7,3801,1781.0,103,17.88,SKU-BDEOPXVA,2025-01-12,Yes,No,1 Year,SUP-5050,new|clearance|trending|eco
+1537,Whiskas Dog Leash Retractable,Pet Supplies,Whiskas,6932.82,3382.26,39.2,4.0,3173,3670.0,421,11.86,SKU-AP7K43Y9,2025-03-07,Yes,No,3 years,SUP-6669,bestseller|sustainable|popular|trending
+1538,Nivea Immunity Booster Drops,Health & Wellness,Nivea,8787.63,4020.16,34.9,1.1,9723,8811.0,135,22.97,SKU-WC8K4010,2025-01-04,yes,No,1 year,SUP-4009,top-rated|premium|popular
+1539,Lakme Lip Butter Set,Beauty & Personal Care,Lakme,7200.09,3116.36,21.8,3.3,1769,7569.0,392,21.78,SKU-EKR45S3J,2025-01-27,yes,Yes,6 months,SUP-7863,limited|premium
+1540,Hozelock Seed Starter Kit,Garden & Outdoors,Hozelock,8689.77,4949.96,32.2,4.2,1664,8089.0,349,9.56,SKU-FLESWVCU,2025-01-24,Yes,No,2 years,SUP-3922,sale
+1541,Classmate Label Maker,Office Supplies,Classmate,2652.49,1684.09,12.0,4.9,7969,2013.0,231,9.09,SKU-2O2ADQDH,2025-01-20,No,Yes,1 Year,SUP-3460,popular
+1542,Pedigree Pet Grooming Kit,Pet Supplies,Pedigree,5978.84,3876.77,25.8,3.6,2043,3223.0,405,15.15,SKU-FJL3YGWL,2025-03-13,yes,No,2 Years,SUP-8819,bestseller|trending
+1543,Nerf Musical Keyboard Kids,Toys & Games,Nerf,4182.39,2292.16,19.6,3.9,4216,3288.0,81,12.96,SKU-P8RWHEZZ,2025-01-22,Yes,No,2 Years,SUP-3725,flash|eco
+1544,Casio Music Stand Folding,Music & Instruments,Casio,3478.78,1671.64,0.3,2.2,9966,8726.0,170,5.74,SKU-PRFMGS2L,2025-02-13,yes,Yes,1 year,SUP-9984,clearance
+1545,Leitz Label Maker,Office Supplies,Leitz,7024.89,3353.04,7.0,4.6,9455,3096.0,491,4.76,SKU-BT8U4GL8,2025-02-10,Yes,No,1 Year,SUP-9461,organic|top-rated|premium
+1546,Dove Lip Butter Set,Beauty & Personal Care,Dove,121.31,49.51,26.4,2.4,9993,9078.0,488,3.53,SKU-YMHFGDO5,2025-01-27,no,No,3 years,SUP-9798,eco
+1547,Castrol Seat Cover Set,Automotive,Castrol,5827.06,3400.8,22.7,4.5,1706,772.0,415,0.75,SKU-9MCY7NLI,2025-03-19,Yes,No,1 Year,SUP-8605,trending|bestseller
+1548,Deli Desk Organiser Bamboo,Office Supplies,Deli,5633.9,2496.78,18.9,2.2,1687,373.0,499,14.74,SKU-Y9E8X18T,2025-01-05,YES,Yes,6 months,SUP-3599,sale|premium|organic|sustainable
+1549,Casio Diamond Stud Earrings,Jewellery & Watches,Casio,1385.9,890.0,23.4,4.0,3773,2391.0,422,15.19,SKU-EK0D8BRR,2025-02-20,yes,No,1 Year,SUP-2961,flash|top-rated
+1550,Butterfly Chopper Manual,Home & Kitchen,Butterfly,913.06,421.38,23.8,3.9,7720,1560.0,250,17.93,SKU-9E3CM887,2025-01-13,Yes,No,No Warranty,SUP-7901,top-rated|flash
+1551,Heads Up For Tails Hamster Wheel,Pet Supplies,Heads Up For Tails,6445.07,3011.01,3.6,4.8,4100,2332.0,399,4.95,SKU-AH0AHSQW,2025-01-18,Yes,No,1 year,SUP-7855,eco|trending
+1552,Nike Compression Shorts,Clothing,Nike,6887.41,3743.51,30.6,4.1,4950,5581.0,441,20.62,SKU-GE43Q4A3,2025-02-23,YES,No,1 year,SUP-5997,bestseller|organic|sustainable|premium
+1553,Hasbro Chess Set Wooden,Toys & Games,Hasbro,2529.69,1058.0,18.3,1.8,5652,8606.0,91,7.87,SKU-ION11KM6,2025-02-02,no,Yes,1 year,SUP-2393,sustainable
+1554,Whiskas Dog Raincoat,Pet Supplies,Whiskas,2964.28,1997.29,29.2,4.5,4123,7308.0,235,10.97,SKU-THOYGJ4O,2025-03-04,yes,No,3 years,SUP-3293,new
+1555,Plum Beard Oil 50ml,Beauty & Personal Care,Plum,5893.71,3097.15,3.7,1.9,7728,6029.0,142,23.2,SKU-AG9ZI65Z,2025-02-20,no,No,1 year,SUP-4869,sale|limited
+1556,Fastrack Analog Watch Classic,Jewellery & Watches,Fastrack,6194.45,2760.58,27.1,4.6,2856,6790.0,58,15.43,SKU-OO5NFFQJ,2025-03-19,Yes,No,Lifetime,SUP-8965,sale|top-rated|new
+1557,Fiskars Potting Mix 5kg,Garden & Outdoors,Fiskars,3267.44,1902.27,29.2,4.4,5370,3654.0,303,11.76,SKU-UYBOYF8H,2025-03-12,YES,No,1 Year,SUP-9387,new
+1558,Heads Up For Tails Bird Cage Stainless,Pet Supplies,Heads Up For Tails,6795.0,3895.37,25.2,1.3,8420,9651.0,418,21.46,SKU-LHCIWI9F,2025-03-09,yes,No,2 Years,SUP-9047,new|premium|flash|top-rated
+1559,Pond's Micellar Water 200ml,Beauty & Personal Care,Pond's,5415.12,3502.19,39.3,2.1,5649,9625.0,294,15.43,SKU-0DQH9PS8,2025-01-28,Yes,Yes,3 years,SUP-6671,new|trending|organic|eco
+1560,Kokuyo Ring Binders 5-Pack,Office Supplies,Kokuyo,3547.87,1928.68,3.3,1.2,3107,9554.0,218,23.74,SKU-7RN489QQ,2025-03-24,no,No,Lifetime,SUP-4806,new|sale|organic|clearance
+1561,Leitz Desk Organiser Bamboo,Office Supplies,Leitz,5866.64,3015.21,36.8,1.9,1691,4392.0,425,10.31,SKU-2R86QERN,2025-01-19,yes,No,No Warranty,SUP-3306,flash|limited|clearance|popular
+1562,Yamaha Harmonica 10-Hole,Music & Instruments,Yamaha,3762.55,2178.38,31.5,2.7,8463,3132.0,450,17.95,SKU-7T879AE0,2025-01-06,Yes,No,2 years,SUP-4001,organic|trending
+1563,Puma Slim Fit Chinos,Clothing,Puma,8991.24,3698.2,15.2,3.8,4332,8763.0,485,14.04,SKU-81BHVHSA,2025-03-29,Yes,No,Lifetime,SUP-5602,new|popular|eco
+1564,Nerf Musical Keyboard Kids,Toys & Games,Nerf,2247.07,1581.97,15.1,2.7,3072,955.0,419,24.91,SKU-IAQG837H,2025-01-18,Yes,No,3 years,SUP-6744,new|top-rated|popular
+1565,Nestle Moringa Powder 200g,Grocery & Gourmet,Nestle,5308.6,3508.99,35.8,3.6,8808,785.0,231,10.8,SKU-GYMKXXAB,2025-02-10,YES,No,1 Year,SUP-1339,top-rated|new|popular
+1566,3M Car Phone Mount Magnetic,Automotive,3M,5178.75,3538.91,24.0,4.1,9317,1492.0,254,17.94,SKU-7N6ZGMVY,2025-03-04,no,No,No Warranty,SUP-8109,premium|popular
+1567,ITC Moringa Powder 200g,Grocery & Gourmet,ITC,3597.27,2468.12,35.7,4.4,3049,1813.0,95,4.42,SKU-VIL6TDR2,2025-02-23,YES,Yes,2 Years,SUP-7006,premium|organic
+1568,Dettol Massage Gun,Health & Wellness,Dettol,5316.76,3793.53,8.2,3.8,4314,8714.0,423,1.27,SKU-BEJUGX5L,2025-01-29,YES,No,3 years,SUP-2768,new|bestseller|popular
+1569,Nerf Scrabble Deluxe,Toys & Games,Nerf,3488.16,2468.32,27.3,4.9,2700,8162.0,331,9.01,SKU-XFKMFEXU,2025-03-12,no,No,2 Years,SUP-6466,organic|popular|clearance|eco
+1570,JK Tyre Car Phone Mount Magnetic,Automotive,JK Tyre,7205.61,5102.19,29.0,3.1,3335,4868.0,471,17.16,SKU-J73DUAVG,2025-01-06,YES,No,Lifetime,SUP-9605,bestseller
+1571,Bloomsbury Ikigai,Books,Bloomsbury,3352.84,2029.96,30.5,3.8,6179,3903.0,284,20.59,SKU-HPSK85QI,2025-02-14,no,Yes,6 months,SUP-2409,clearance|bestseller
+1572,Decathlon Skipping Rope Steel,Sports & Fitness,Decathlon,2548.27,1549.56,8.4,1.2,5852,8762.0,108,7.6,SKU-DZBBH5PC,2025-03-07,No,No,2 years,SUP-4887,new|limited|bestseller
+1573,LG Wireless Charging Pad,Electronics,LG,3984.1,2746.52,11.1,3.8,889,5363.0,356,3.03,SKU-A4J5NNQV,2025-01-16,Yes,No,3 years,SUP-6304,trending|top-rated|popular|sustainable
+1574,Tanishq Analog Watch Classic,Jewellery & Watches,Tanishq,59.84,42.7,25.8,1.9,7347,9428.0,421,16.36,SKU-Q7MYXLBH,2025-02-25,Yes,No,2 Years,SUP-1932,flash
+1575,Lenovo Gaming Headset,Electronics,Lenovo,3888.82,2489.86,22.7,3.9,7018,7667.0,362,15.23,SKU-XWD4OHBR,2025-01-21,YES,Yes,1 Year,SUP-9830,new|popular
+1576,Pedigree Dog Leash Retractable,Pet Supplies,Pedigree,8864.37,4075.99,1.8,4.8,2113,7414.0,172,7.28,SKU-4V8J2HS7,2025-01-16,Yes,No,1 year,SUP-6408,organic|top-rated|sustainable|premium
+1577,Bosch Seed Starter Kit,Garden & Outdoors,Bosch,8182.7,3658.31,10.8,1.4,2750,6611.0,419,19.68,SKU-VW08SE19,2025-01-08,No,No,No Warranty,SUP-3432,sustainable
+1578,Nestle Cacao Nibs 200g,Grocery & Gourmet,Nestle,833.58,455.68,27.2,4.7,607,8600.0,112,14.33,SKU-IS55C6CV,2025-01-10,Yes,No,2 years,SUP-2376,top-rated
+1579,Reebok Gym Gloves,Sports & Fitness,Reebok,5409.64,2234.64,11.1,4.3,5554,7791.0,174,24.92,SKU-ANY5VCHS,2025-02-01,yes,No,6 months,SUP-1521,top-rated
+1580,Michelin Dash Mat,Automotive,Michelin,2805.24,1622.6,36.3,2.3,7244,6258.0,383,3.14,SKU-M48MYHKH,2025-03-27,Yes,No,1 Year,SUP-1798,sustainable|limited
+1581,Garnier Beard Oil 50ml,Beauty & Personal Care,Garnier,8266.45,4652.85,36.2,2.5,2189,3222.0,185,8.46,SKU-Q5G7KBQA,2025-03-12,Yes,Yes,No Warranty,SUP-4763,organic|limited|sale|sustainable
+1582,JBL Laptop Stand Aluminium,Electronics,JBL,7732.64,3443.53,29.3,2.6,8786,7958.0,73,20.27,SKU-JDOSUGNF,2025-03-11,yes,Yes,1 year,SUP-3226,clearance|flash
+1583,Royal Canin Automatic Pet Feeder,Pet Supplies,Royal Canin,7958.13,3716.47,22.9,4.8,1292,5713.0,284,12.83,SKU-VPX7OVSR,2025-03-20,Yes,No,1 year,SUP-9526,limited|trending
+1584,Classmate Correction Tape 5-Pack,Office Supplies,Classmate,8669.5,4572.0,15.9,3.9,2524,7497.0,163,2.79,SKU-VILYA820,2025-02-09,Yes,No,6 months,SUP-1534,clearance|top-rated
+1585,Britannia Organic Jaggery 1kg,Grocery & Gourmet,Britannia,1028.91,522.95,25.9,3.2,2435,513.0,468,4.32,SKU-U2LNY46Z,2025-03-01,yes,No,2 years,SUP-1039,top-rated|bestseller
+1586,Arrow Casual Linen Shirt,Clothing,Arrow,3694.97,2143.01,26.9,1.8,5264,1019.0,294,6.02,SKU-TYFU63DC,2025-02-10,No,No,No Warranty,SUP-7728,trending|premium|organic
+1587,Drools Cat Scratching Post,Pet Supplies,Drools,7718.69,4465.69,6.4,2.6,3576,3840.0,241,17.62,SKU-37CIKHU0,2025-01-24,Yes,No,3 years,SUP-8773,bestseller
+1588,Britannia Dried Cranberries 150g,Grocery & Gourmet,Britannia,5407.25,2440.31,38.7,1.6,6667,4216.0,240,10.06,SKU-EIOR5YMW,2025-03-29,yes,Yes,1 year,SUP-5634,new|popular|organic|limited
+1589,UCB Floral Dress,Clothing,UCB,6116.06,2830.66,30.9,3.8,1507,2857.0,235,22.73,SKU-AYPCHDVW,2025-02-20,no,No,Lifetime,SUP-4778,sustainable|flash
+1590,LG Portable SSD 1TB,Electronics,LG,4406.63,2588.77,6.0,1.7,5671,7346.0,149,11.15,SKU-GXLX6XZV,2025-01-15,no,No,Lifetime,SUP-2584,trending|bestseller|flash|premium
+1591,LG Smart Home Hub,Electronics,LG,4157.91,2010.4,12.2,3.7,2339,3756.0,242,10.01,SKU-ALLJERQW,2025-02-16,YES,No,3 years,SUP-8643,flash|premium|organic
+1592,Nestle Flaxseeds 500g,Grocery & Gourmet,Nestle,3835.58,1865.1,8.0,3.0,3079,8424.0,398,11.94,SKU-B60SKB3B,2025-03-04,Yes,No,2 years,SUP-2522,eco|trending|clearance|flash
+1593,Fossil Chronograph Sports Watch,Jewellery & Watches,Fossil,988.14,464.85,23.7,4.1,4044,5675.0,222,4.84,SKU-GJRU0BVD,2025-02-03,Yes,Yes,2 years,SUP-1622,sustainable|premium|new|eco
+1594,Zara Denim Jacket,Clothing,Zara,4377.42,2604.9,38.3,4.6,6856,9353.0,232,10.49,SKU-D9V0WF1F,2025-02-11,yes,No,2 Years,SUP-2133,new|trending|limited|flash
+1595,Casio Violin 4/4 Size,Music & Instruments,Casio,4689.64,3231.53,21.3,4.9,7907,9982.0,465,24.53,SKU-FJM3NU4D,2025-01-07,Yes,No,Lifetime,SUP-2245,popular|organic|sustainable
+1596,ITC Cold Press Coconut Oil 500ml,Grocery & Gourmet,ITC,7053.59$,4759.59,24.7,3.6,2284,8908.0,332,13.59,SKU-LAYPAS26,2025-02-15,No,No,3 years,SUP-1166,sustainable|new|bestseller|organic
+1597,Nykaa Micellar Water 200ml,Beauty & Personal Care,Nykaa,186.85,77.47,7.9,3.1,280,8250.0,468,18.51,SKU-CUF613TO,2025-03-30,Yes,No,No Warranty,SUP-2801,top-rated|popular
+1598,Plum Lip Butter Set,Beauty & Personal Care,Plum,5357.31,2785.11,2.4,2.1,7215,2996.0,116,14.98,SKU-IBDD5SKD,2025-03-02,Yes,No,Lifetime,SUP-5180,organic|popular|trending
+1599,Zara Oversized Hoodie,Clothing,Zara,2713.23,1790.12,28.8,4.5,8005,7131.0,429,3.02,SKU-8J4C591Y,2025-03-08,Yes,No,No Warranty,SUP-5250,new|sustainable|trending|top-rated
+1600,Greenworks Trowel Set,Garden & Outdoors,Greenworks,4286.03,2934.9,26.4,1.6,1066,5148.0,363,1.6,SKU-J9RWVFB5,2025-01-24,YES,No,No Warranty,SUP-1010,clearance
+1601,Vector X Ab Roller,Sports & Fitness,Vector X,7820.92,3451.79,33.1,2.4,2019,1033.0,275,4.99,SKU-ZGRM3QE8,2025-02-07,Yes,No,1 year,SUP-8959,bestseller|clearance|sustainable|premium
+1602,Castrol Seat Cover Set,Automotive,Castrol,5070.29,2287.79,37.0,5.0,5261,9647.0,267,5.8,SKU-06UC2UUH,2025-01-28,no,Yes,2 Years,SUP-1281,bestseller|sale|popular
+1603,Pond's Hydrating Face Mask,Beauty & Personal Care,Pond's,1559.71,631.39,30.3,2.0,2345,1814.0,247,22.2,SKU-B2L8QZGI,2025-01-05,Yes,No,3 years,SUP-6416,bestseller|eco|clearance
+1604,Arrow Formal Trousers,Clothing,Arrow,8791.48,4052.7,5.4,3.6,5403,2457.0,111,13.4,SKU-6D8ACVV7,2025-01-09,Yes,No,3 years,SUP-4557,sustainable|bestseller
+1605,Casio Cufflinks Set,Jewellery & Watches,Casio,3962.62,2252.57,17.7,2.3,4987,2521.0,387,0.52,SKU-3ZIPUEOQ,2025-02-18,yes,No,3 years,SUP-4399,clearance|trending
+1606,Havells Dish Rack Stainless,Home & Kitchen,Havells,6060.27,4277.34,8.3,2.4,9015,5943.0,339,5.09,SKU-R8VS0ZTN,2025-03-28,YES,No,3 years,SUP-6130,new
+1607,Roland Violin 4/4 Size,Music & Instruments,Roland,5779.68,2401.84,25.4,1.1,9689,1708.0,388,2.54,SKU-KKHGDB8Y,2025-03-04,Yes,No,2 Years,SUP-3301,limited|flash|sale
+1608,Drools Automatic Pet Feeder,Pet Supplies,Drools,8597.53,5079.94,9.9,1.2,6389,6636.0,115,10.5,SKU-DQQBUVYV,2025-01-04,Yes,No,1 year,SUP-6889,premium|organic|top-rated
+1609,Himalaya Foam Roller,Health & Wellness,Himalaya,6005.27,3090.8,17.7,1.3,7338,8498.0,248,15.9,SKU-ILYZL3EE,2025-02-06,Yes,No,2 years,SUP-6820,limited|flash
+1610,Aashirvaad Peanut Butter Crunchy 1kg,Grocery & Gourmet,Aashirvaad,4382.26,3110.56,3.6,4.6,1932,288.0,410,16.51,SKU-XAT5SZMK,2025-01-05,Yes,No,1 year,SUP-6022,bestseller
+1611,Vega Seat Cover Set,Automotive,Vega,807.83,351.13,17.6,4.4,3334,5410.0,347,2.64,SKU-CTWO55GK,2025-03-04,Yes,No,6 months,SUP-2591,trending
+1612,Britannia Chia Seeds 250g,Grocery & Gourmet,Britannia,197.78,82.8,30.6,1.4,41,8657.0,324,24.82,SKU-DWRUDMG7,2025-01-11,Yes,No,Lifetime,SUP-7614,clearance|premium|sustainable
+1613,3M Jump Starter Pack,Automotive,3M,4517.24,1948.71,34.2,2.9,9502,6510.0,74,3.4,SKU-RNQ16GRE,2025-02-08,Yes,No,1 Year,SUP-5867,organic
+1614,Deli Laminator A4,Office Supplies,Deli,6859.64,3600.31,9.9,1.9,432,6390.0,256,23.19,SKU-4K2PNA7B,2025-02-24,Yes,No,1 Year,SUP-9077,limited
+1615,Classmate A4 Copy Paper 500 Sheets,Office Supplies,Classmate,831.81,562.66,1.5,3.6,2262,2180.0,218,10.55,SKU-3VXEWPEQ,2025-03-27,Yes,Yes,2 years,SUP-9311,premium|top-rated
+1616,Ugaoo Seed Starter Kit,Garden & Outdoors,Ugaoo,7204.42,4433.75,22.9,1.6,9779,8215.0,374,7.0,SKU-BGOCH6XX,2025-01-12,yes,Yes,6 months,SUP-6630,eco|sale|top-rated|trending
+1617,Sennheiser Digital Piano 61-Key,Music & Instruments,Sennheiser,4221.36,2841.62,2.1,1.7,8934,9665.0,462,9.26,SKU-MYMV9QVT,2025-01-21,YES,No,Lifetime,SUP-7155,flash|sale|eco|sustainable
+1618,Dabur Omega-3 Capsules 60s,Health & Wellness,Dabur,8361.11$,3799.78,0.7,4.8,2944,3086.0,379,11.51,SKU-JGC12QG0,2025-01-13,no,No,No Warranty,SUP-5166,premium
+1619,Sony Action Camera 4K,Electronics,Sony,1232.16,760.75,13.6,2.4,6901,4724.0,130,2.75,SKU-C27TETLV,2025-01-18,YES,No,1 year,SUP-5143,bestseller|clearance|premium|eco
+1620,True Elements Flaxseeds 500g,Grocery & Gourmet,True Elements,2264.73,1484.06,10.0,4.9,5258,7119.0,307,20.89,SKU-K1CEXZ8Y,2025-03-13,Yes,No,2 Years,SUP-4982,new|sale
+1621,Patanjali Cacao Nibs 200g,Grocery & Gourmet,Patanjali,8053.03,5779.14,23.4,4.1,1145,7245.0,349,7.26,SKU-07EFKLOY,2025-01-29,Yes,Yes,2 years,SUP-2632,popular
+1622,Reebok Yoga Wheel,Sports & Fitness,Reebok,8304.92,4790.5,1.7,1.1,5718,3251.0,173,19.24,SKU-KSSYIOAK,2025-03-06,Yes,No,2 Years,SUP-9734,premium|bestseller|trending|organic
+1623,Staples File Cabinet 3-Drawer,Office Supplies,Staples,8400.44,4640.03,30.3,1.8,2524,5439.0,467,21.97,SKU-RS8A22H4,2025-03-05,Yes,No,1 Year,SUP-1548,clearance
+1624,Hozelock Garden Hose 15m,Garden & Outdoors,Hozelock,931.14,401.85,29.6,3.1,4680,9588.0,305,3.08,SKU-LL1HOQBX,2025-03-14,Yes,No,2 years,SUP-1326,flash
+1625,Penguin Rich Dad Poor Dad,Books,Penguin,3471.54,2231.9,36.0,1.1,3727,4529.0,289,7.47,SKU-IPS2IF65,2025-01-17,no,No,1 year,SUP-9214,limited|new
+1626,Plum Compact Powder,Beauty & Personal Care,Plum,2667.22,1210.9,27.0,3.0,5371,2420.0,295,9.13,SKU-255DIJXA,2025-01-23,YES,No,2 Years,SUP-2098,sustainable
+1627,HarperCollins Thinking Fast and Slow,Books,HarperCollins,829.42,535.08,30.1,4.6,4600,9199.0,87,0.67,SKU-TFI037CN,2025-02-15,Yes,No,No Warranty,SUP-1045,limited|bestseller
+1628,Shell Tire Inflator Portable,Automotive,Shell,1072.93,702.95,21.3,4.7,9280,3726.0,187,14.88,SKU-LAQM0OIP,2025-01-14,yes,No,1 Year,SUP-3326,trending|organic
+1629,Funskool Wooden Train Set,Toys & Games,Funskool,5496.74,3067.44,1.8,4.7,3785,9528.0,377,2.35,SKU-0VLL8X56,2025-01-16,Yes,No,No Warranty,SUP-6279,trending|organic|top-rated|sustainable
+1630,Patanjali Sleep Mask Set,Health & Wellness,Patanjali,2648.36,1450.87,4.0,3.7,1277,7946.0,51,24.54,SKU-AJVXFXQU,2025-01-20,yes,Yes,6 months,SUP-1170,bestseller|top-rated
+1631,Plum SPF 50 Sunscreen 100ml,Beauty & Personal Care,Plum,2568.16,1724.87,4.9,4.2,5968,2817.0,178,19.79,SKU-HPQ0U08X,2025-01-06,Yes,Yes,1 year,SUP-2869,eco|trending
+1632,Greenworks Lawn Mower Manual,Garden & Outdoors,Greenworks,6666.97,3936.99,37.4,1.8,1830,915.0,149,16.33,SKU-K4NBPHPA,2025-01-12,YES,No,6 months,SUP-7388,premium|eco
+1633,Patanjali Dried Cranberries 150g,Grocery & Gourmet,Patanjali,6831.82,3842.54,26.4,4.2,3395,1299.0,58,21.79,SKU-ORLY6PG7,2025-01-20,Yes,Yes,No Warranty,SUP-7304,premium|top-rated|organic|bestseller
+1634,Pigeon Induction Cooktop 2000W,Home & Kitchen,Pigeon,5687.32,2917.16,23.9,4.3,4061,6861.0,408,23.95,SKU-0L4IDLMC,2025-01-29,Yes,Yes,6 months,SUP-2421,organic|eco|sustainable
+1635,Aashirvaad Moringa Powder 200g,Grocery & Gourmet,Aashirvaad,1579.31,799.39,10.6,3.0,5558,5333.0,362,6.35,SKU-QQV1HT5Z,2025-03-13,YES,No,1 year,SUP-6358,clearance|sale
+1636,Gibson Guitar Tuner Clip,Music & Instruments,Gibson,62.33,36.96,34.3,4.5,3785,3712.0,474,23.5,SKU-BAGYK1DD,2025-01-14,yes,No,No Warranty,SUP-4745,organic|trending|bestseller
+1637,Michelin Car Vacuum Cleaner,Automotive,Michelin,8045.61,4761.66,1.6,2.4,431,5094.0,255,21.87,SKU-DQU0HSB4,2025-02-22,No,No,2 years,SUP-5053,sale|popular|organic|clearance
+1638,Dettol Omega-3 Capsules 60s,Health & Wellness,Dettol,4980.52,2362.9,8.1,2.6,7964,6482.0,482,17.6,SKU-DBE2ADDB,2025-01-15,yes,No,1 Year,SUP-6209,sustainable|bestseller
+1639,Fender Guitar Tuner Clip,Music & Instruments,Fender,3577.02,2396.85,28.2,3.6,5794,1638.0,201,1.22,SKU-4GTAS985,2025-02-08,no,Yes,Lifetime,SUP-1515,bestseller|sustainable|top-rated
+1640,Sennheiser Guitar Tuner Clip,Music & Instruments,Sennheiser,5978.84,2731.06,22.9,4.2,8575,7489.0,451,21.66,SKU-XXUMH1HO,2025-02-27,Yes,No,2 Years,SUP-8763,flash|sustainable|eco
+1641,Himalaya Sleep Mask Set,Health & Wellness,Himalaya,7001.59,4249.83,29.1,4.1,7203,7263.0,136,19.97,SKU-M50NT1XV,2025-02-08,YES,No,1 year,SUP-6872,new|trending
+1642,Casio Stainless Steel Bracelet,Jewellery & Watches,Casio,1112.53,636.89,3.9,3.9,1106,9066.0,223,4.22,SKU-YMUXTXO3,2025-03-22,YES,No,6 months,SUP-1378,sustainable|bestseller|clearance
+1643,Speedo Gym Gloves,Sports & Fitness,Speedo,6310.87,4448.92,29.3,1.5,5781,9746.0,481,20.25,SKU-PPM4V5I2,2025-02-09,yes,No,3 years,SUP-9085,limited|sale
+1644,Philips Action Camera 4K,Electronics,Philips,6218.2,4034.07,10.9,1.7,88,9917.0,363,17.22,SKU-QOIR4NOP,2025-02-13,YES,No,6 months,SUP-3086,premium|limited|eco|organic
+1645,Roland Ukulele Soprano,Music & Instruments,Roland,5438.43,2223.87,22.6,1.6,4230,9187.0,386,17.67,SKU-GF38TTWY,2025-01-26,Yes,No,Lifetime,SUP-6413,organic
+1646,Yamaha Drum Pad Practice,Music & Instruments,Yamaha,2400.64,1560.19,4.1,2.9,4384,492.0,248,16.05,SKU-VO87X0ZS,2025-01-29,YES,No,Lifetime,SUP-5779,flash|limited|sale|trending
+1647,Patanjali Pulse Oximeter,Health & Wellness,Patanjali,5829.66,3860.21,10.7,3.6,1824,6924.0,390,13.67,SKU-1LJMAXHF,2025-01-16,no,No,2 Years,SUP-5456,trending|clearance|flash
+1648,Kokuyo Label Maker,Office Supplies,Kokuyo,7736.15,4312.35,17.0,3.1,9211,6792.0,78,18.6,SKU-5GEO2OKA,2025-02-19,Yes,No,No Warranty,SUP-3852,new|limited|clearance
+1649,Nike Formal Trousers,Clothing,Nike,1952.84,1281.47,6.4,3.6,9428,2258.0,491,20.04,SKU-KSVGE2UE,2025-03-31,yes,No,3 years,SUP-8270,new|bestseller|eco
+1650,Yamaha Drum Pad Practice,Music & Instruments,Yamaha,5557.49,2821.74,30.9,1.3,2319,772.0,360,18.44,SKU-CQ1S5ZS2,2025-02-16,Yes,No,3 years,SUP-9231,sustainable|trending|limited
